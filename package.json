@@ -1,0 +1,15 @@
+{
+  "name": "file",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
+  "license": "MIT",
+  "dependencies": {
+    "isstream": "^0.1.0",
+    "bluebird": "^1.2.2"
+  }
+}
