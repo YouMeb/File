@@ -2,12 +2,6 @@
 
 ```javascript
 var File = require('file');
-var localFile = require('local-file');
-
-File.use({
-  dir: './public/upload',
-  baseurl: '/upload'
-});
 
 // ...
 
